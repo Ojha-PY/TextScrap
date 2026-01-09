@@ -1,5 +1,3 @@
-Below is a **clean, user-friendly, emoji-rich `README.md`** that explains **what the code does, how it works, and how to use it**, without overwhelming the reader.
-It’s written so **both GIS users and Python users** can follow it confidently.
 
 ---
 
