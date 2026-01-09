@@ -1,4 +1,5 @@
 
+
 ---
 
 # 🧠✨ Neural Text Discovery from GeoTIFF
@@ -161,8 +162,13 @@ All valid text is written as spatial POINT features.
 ## ⚠️ Notes & Tips
 
 ⚠️ Works best with **printed text**, not handwriting
+<br>
 ⚠️ Input raster should be **clear & high-resolution**
+<br>
+
 ⚠️ For scanned maps, try increasing contrast beforehand
+<br>
+
 ⚠️ GPU greatly improves speed on large rasters
 
 ---
